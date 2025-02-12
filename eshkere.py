@@ -1,2 +1,1 @@
-print("eshkere")
-print("privet")
+print("polhiy eshkere")
