@@ -1,1 +1,1 @@
-print("polhiy eshkere")
+print("pupupu")
